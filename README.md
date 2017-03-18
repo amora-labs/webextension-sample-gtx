@@ -2,7 +2,7 @@
 
 ## O que faz
 
-Essa extensão substitui a página interna mostrada quando o usuário abre uma nova guia sem especificar uma página para carregar (por exemplo, quando o usuário pressiona Ctrl + T). A página de substituição é preenchida com uma home da GTX
+Essa extensão substitui a página interna mostrada quando o usuário abre uma nova guia sem especificar uma página para carregar (por exemplo, quando o usuário pressiona Ctrl/Cmd + T). A página de substituição é preenchida com uma home da GTX.
 
 ## Como rodar
 

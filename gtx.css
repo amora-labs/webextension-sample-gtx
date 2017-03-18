@@ -1,0 +1,72 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: url('svg/bg.svg') no-repeat center fixed;
+  background-size: cover;
+}
+
+.logo {
+  position: relative;
+  text-align: center;
+}
+
+.logo__svg {
+  width: 250px;
+  opacity: 0;
+  transition-property: opacity;
+  transition-duration: .6s;
+}
+
+.logo__svg.is-finished {
+  opacity: 1;
+}
+
+.logo__svg--lines {
+  position: absolute;
+  top: -62.3px;
+  opacity: 1;
+}
+
+.logo__svg--lines.is-finished {
+  opacity: 0;
+}
+
+.clients {
+  display: flex;
+  padding: 0 10vmin;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.client {
+  width: 100%;
+  flex-basis: 100%;
+}
+
+@media screen and (min-width: 600px) {
+  .client {
+    max-width: calc(50% - 10px);
+    flex-basis: calc(50% - 10px);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .client {
+    max-width: calc(33.3% - 10px);
+    flex-basis: calc(33.3% - 10px);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .client {
+    max-width: calc(25% - 10px);
+    flex-basis: calc(25% - 10px);
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .client {
+    max-width: calc(20% - 10px);
+    flex-basis: calc(20% - 10px);
+  }
+}

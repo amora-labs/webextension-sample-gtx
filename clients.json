@@ -1,0 +1,56 @@
+{
+  "clients": [
+    {
+      "name": "Technos",
+      "id": "technos"
+    },
+    {
+      "name": "Outer Shoes",
+      "id": "outershoes"
+    },
+    {
+      "name": "Totem",
+      "id": "totemstore"
+    },
+    {
+      "name": "Rush Praia",
+      "id": "rushpraia"
+    },
+    {
+      "name": "Loja Três",
+      "id": "lojatres"
+    },
+    {
+      "name": "Zee.Dog",
+      "id": "zeedog"
+    },
+    {
+      "name": "Zee.Dog B2B",
+      "id": "zeedogb2b"
+    },
+    {
+      "name": "Avadore",
+      "id": "avadore"
+    },
+    {
+      "name": "CabeloStore",
+      "id": "cabelostore"
+    },
+    {
+      "name": "Rei dos Quadros",
+      "id": "reidosquadros"
+    },
+    {
+      "name": "Dog27",
+      "id": "dog27"
+    },
+    {
+      "name": "R.D.Lay",
+      "id": "rdlay"
+    },
+    {
+      "name": "Cavist",
+      "id": "cavist"
+    }
+  ]
+}

@@ -3,14 +3,12 @@
   "name": "GTX Home",
   "version": "0.1",
   "chrome_url_overrides": {
-      "newtab": "gtx.html"
+    "newtab": "gtx.html"
   },
-  "permissions": [
-      
-  ],
+  "permissions": [],
   "applications": {
-      "gecko": {
-          "strict_min_version": "54.0a1"
-      }
+    "gecko": {
+      "strict_min_version": "54.0a1"
+    }
   }
 }
