@@ -33,23 +33,23 @@ fetch('clients.json')
           <div class="client" style="transition-delay: ${delay}ms">
             <h3 class="client__name">${name}</h3>
             <ul class="client__links">
-              <li class="client__link">
-                <a href="//${id}.vtexcommercestable.com.br">
+              <li class="client__item">
+                <a class="client__link" href="http://${id}.vtexcommercestable.com.br">
                   Stable
                 </a>
               </li>
-              <li class="client__link">
-                <a href="//${id}.vtexcommercestable.com.br/admin">
+              <li class="client__item">
+                <a class="client__link" href="http://${id}.vtexcommercestable.com.br/admin">
                   Admin
                 </a>
               </li>
-              <li class="client__link">
-                <a href="//${id}.vtexcrm.com.br">
+              <li class="client__item">
+                <a class="client__link" href="http://${id}.vtexcrm.com.br">
                   CRM
                 </a>
               </li>
-              <li class="client__link">
-                <a href="//${id}.ds.vtexcrm.com.br">
+              <li class="client__item">
+                <a class="client__link" href="http://${id}.ds.vtexcrm.com.br">
                   Master Data
                 </a>
               </li>
