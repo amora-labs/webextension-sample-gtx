@@ -1,56 +1,79 @@
 {
   "clients": [
     {
+      "name": "Touch",
+      "id": "touchwatches",
+      "keywords": "touch touchwatches breno thiago tiago"
+    },
+    {
       "name": "Technos",
-      "id": "technos"
+      "id": "technos",
+      "keywords": "technos breno thiago tiago"
     },
     {
       "name": "Outer Shoes",
-      "id": "outershoes"
+      "id": "outershoes",
+      "keywords": "outer shoes outershoes marcio raissa"
     },
     {
       "name": "Totem",
-      "id": "totemstore"
+      "id": "totemstore",
+      "keywords": "totem marina"
     },
     {
       "name": "Rush Praia",
-      "id": "rushpraia"
+      "id": "rushpraia",
+      "keywords": "rush praia louise luise"
     },
     {
       "name": "Loja Três",
-      "id": "lojatres"
+      "id": "lojatres",
+      "keywords": "loja tres três chico francisco francesca"
     },
     {
       "name": "Zee.Dog",
-      "id": "zeedog"
+      "id": "zeedog",
+      "keywords": "zeedog zee.dog tiago thiago"
     },
     {
       "name": "Zee.Dog B2B",
-      "id": "zeedogb2b"
+      "id": "zeedogb2b",
+      "keywords": "zeedog zee.dog tiago thiago b2b"
     },
     {
       "name": "Avadore",
-      "id": "avadore"
+      "id": "avadore",
+      "keywords": "avadore rafael cabo frio"
     },
     {
       "name": "CabeloStore",
-      "id": "cabelostore"
+      "id": "cabelostore",
+      "keywords": "cabelo store bruno"
     },
     {
       "name": "Rei dos Quadros",
-      "id": "reidosquadros"
+      "id": "reidosquadros",
+      "keywords": "rei dos quadros reidosquadros"
     },
     {
       "name": "Dog27",
-      "id": "dog27"
+      "id": "dog27",
+      "keywords": "dog 27 dog27"
     },
     {
       "name": "R.D.Lay",
-      "id": "rdlay"
+      "id": "rdlay",
+      "keywords": "rdlay r.d.lay"
     },
     {
       "name": "Cavist",
-      "id": "cavist"
+      "id": "cavist",
+      "keywords": "cavist vinho"
+    },
+    {
+      "name": "Rudge",
+      "id": "rduge",
+      "keywords": "rudge"
     }
   ]
 }
