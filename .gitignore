@@ -6,7 +6,7 @@ node_modules
 coverage
 
 # production
-build
+web-ext-artifacts
 
 # misc
 .DS_Store
